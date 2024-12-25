@@ -1,0 +1,1 @@
+This repository contains a simple bash script demonstrating a race condition bug and its solution.  The bug arises from concurrent file access, leading to unpredictable output. The solution uses a locking mechanism to ensure atomicity.
